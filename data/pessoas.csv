@@ -1,0 +1,10 @@
+id_pessoa,nome,email,senha_hash,tipo,ativo
+1,Admin do Sistema,admin@sistema.com,62?^C]b(,D,true
+2,Gabriel,gabriel@gmail.com,d^,A,true
+4,Reinaldo,rei@rei.com,d^c,A,true
+5,Allan,allan@gmail.com,d^,P,true
+6,valter,valter@teste.com,d^c,P,false
+7,1112,aa2,6/,A,false
+8,gabriel,gabriel@teste.com,d^c,A,false
+9,aaaaaaaa,aaaaaaaa,6/3V6/3V6/3,A,false
+10,rei,rei,G3;,A,false

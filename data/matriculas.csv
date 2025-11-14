@@ -1,0 +1,4 @@
+id_matricula,id_aluno,id_turma,data_matricula,status
+1,2,1,2025-11-11,Ativa
+6,1,1,2025-11-14,Ativa
+7,3,1,2025-11-14,Ativa
